@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome to My Site"
-permalink: /
+permalink: /home
 
 header:
   overlay_color: "#000"
