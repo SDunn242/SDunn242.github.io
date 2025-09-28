@@ -2,7 +2,6 @@
 layout: splash
 title: "Welcome to My Site"
 permalink: /
-hidden: true
 
 header:
   overlay_color: "#000"
