@@ -2,7 +2,7 @@
 layout: splash
 title: "Welcome to My Site"
 permalink: /
-author_profile: false
+hidden: true
 
 header:
   overlay_color: "#000"
