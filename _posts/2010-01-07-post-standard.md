@@ -1,5 +1,5 @@
 ---
-title: "Waffle Plot: Breat Cancer and HRT"
+title: "Waffle Plot: Breast Cancer and HRT"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
