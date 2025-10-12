@@ -10,6 +10,8 @@ tags:
 
 [View Here](https://thebms.org.uk/wp-content/uploads/2023/01/WHC-Infographics-JANUARY-2023-BreastCancerRisks.pdf)
 
+!(/assets/images/bio-photo.jpg)
+
 
 <!--more-->
 
