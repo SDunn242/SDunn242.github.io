@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "A repository of all the Medical Data Visualizations I have found online - both good and bad!"
 intro: 
-  - excerpt: 'To view the visualizations by medical speciality, click 'Speciality' in the header menu, to view by data visualization method click 'Data Viz''
+  - excerpt: "To view the visualizations by medical speciality, click 'Speciality' in the header menu, to view by data visualization method click 'Data Viz'"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
